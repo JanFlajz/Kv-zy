@@ -1,0 +1,17 @@
+QUIZ-WITH-RESULTS
+Num-of-pages 1
+Page 1
+Num-of-questions 1
+Question 1
+Multi-choice
+dsada
+Evaluation
+1 Choose-from-Set
+Possibilities 2
+0 dsada
+1 dsad
+Correct-Answer 1
+0 dsada
+Terminate-answer 1
+1 dsad
+ENDQUIZ

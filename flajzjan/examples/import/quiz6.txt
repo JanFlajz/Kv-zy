@@ -1,0 +1,46 @@
+QUIZ-WITH-RESULTS
+Num-of-pages 1
+Page 1
+Num-of-questions 4
+Question 1
+Single-choice
+barva duhy
+Evaluation
+1 Choose-from-Set Text-Answer
+Possibilities 3
+0 modra
+1 bezova
+2 cerna
+Correct-Answer 1
+0 modra
+Terminate-answer 1
+2 cerna
+Question 2
+Text-choice
+exact match konina
+Evaluation
+2 Written-text
+Correct-Answer 1
+konina
+Terminate-answer 32767
+
+Question 3
+Text-choice
+1+1
+Evaluation
+4 Counted-Value
+Correct-Answer 1
+2
+Number-of-decimals 8
+Terminate-answer INFINUM N
+Terminate-answer SUPREMUM 5
+Question 4
+Text-choice
+regex subject
+Evaluation
+3 Regex
+Correct-Answer 1
+subject
+Terminate-answer 0
+
+ENDQUIZ

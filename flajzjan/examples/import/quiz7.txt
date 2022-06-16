@@ -1,0 +1,29 @@
+QUIZ-WITH-RESULTS
+Num-of-pages 1
+Page 1
+Num-of-questions 2
+Question 1
+Single-choice
+singlechoice correct a
+Evaluation
+1 Choose-from-Set Text-Answer
+Possibilities 2
+0 a
+1 another answer
+Correct-Answer 1
+0 a
+Terminate-answer 0
+
+Question 2
+Single-choice
+singlechoice2
+Evaluation
+1 Choose-from-Set Text-Answer
+Possibilities 2
+0 a
+1 other
+Correct-Answer 1
+0 a
+Terminate-answer 0
+
+ENDQUIZ

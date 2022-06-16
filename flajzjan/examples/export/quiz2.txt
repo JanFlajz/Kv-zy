@@ -1,0 +1,20 @@
+				NEW QUIZ
+1.singlechoice (Single-choice ) 
+
+	a) dasda
+	b) dasda
+	c) dsad
+	d) sdad
+
+
+Correct answer(s): 4) sdad 
+
+2.multichoice (Multi-choice ) 
+
+	a) a
+	b) asdasd
+	c) dasdas
+
+
+Correct answer(s): 1) a 3) dasdas 
+

@@ -1,0 +1,116 @@
+QUIZ-WITH-RESULTS
+Num-of-pages 2
+Page 1
+Num-of-questions 5
+Question 1
+Single-choice
+text single choice
+Evaluation
+1 Choose-from-Set
+Possibilities 4
+0 correct answer
+1 incorrect answer
+2 terminate answer
+3 other answer
+Correct-Answer 1
+0 correct answer
+Terminate-answer 1
+2 terminate answer
+Question 2
+Single-choice
+single choice text 2
+Evaluation
+1 Choose-from-Set Text-Answer
+Possibilities 3
+0 correct
+1 incorrect
+2 terminate
+Correct-Answer 1
+0 correct
+Terminate-answer 1
+2 terminate
+Question 3
+Multi-choice
+multichoice text 1
+Evaluation
+1 Choose-from-Set
+Possibilities 4
+0 correct answer
+1 correct answer
+2 terminate answer
+3 other answer
+Correct-Answer 2
+0 correct answer
+1 correct answer
+Terminate-answer 1
+2 terminate answer
+Question 4
+Multi-choice
+multichoice text 2
+Evaluation
+1 Choose-from-Set Text-Answer
+Possibilities 3
+0 correct
+1 incorrect
+2 terminate
+Correct-Answer 1
+0 correct
+Terminate-answer 1
+2 terminate
+Question 5
+Text-choice
+text text
+Evaluation
+2 Written-text
+Correct-Answer 1
+text
+Terminate-answer 3
+0 correct
+1 incorrect
+2 heeelp
+Page 2
+Num-of-questions 4
+Question 6
+Text-choice
+text answer 2
+Evaluation
+3 Regex
+Correct-Answer 1
+regex
+Terminate-answer 32767
+
+Question 7
+Text-choice
+text text 3
+Evaluation
+4 Counted-Value
+Correct-Answer 1
+2.2
+Number-of-decimals 1
+Terminate-answer INFINUM 1
+Terminate-answer SUPREMUM 2
+Question 8
+Yes\No
+yesno text 1
+Evaluation
+1 Choose-from-Set
+Possibilities 2
+0 Yes
+1 No
+Correct-Answer 1
+0 Yes
+Terminate-answer 0
+
+Question 9
+Yes\No
+yes no text 2
+Evaluation
+1 Choose-from-Set Text-Answer 
+Possibilities 2
+0 Yes
+1 No
+Correct-Answer 1
+0 Yes
+Terminate-answer 0
+
+ENDQUIZ

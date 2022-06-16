@@ -1,0 +1,33 @@
+QUIZ-WITH-RESULTS
+Num-of-pages 1
+Page 1
+Num-of-questions 2
+Question 1
+Multi-choice
+multichoice
+Evaluation
+1 Choose-from-Set
+Possibilities 3
+0 corr
+1 corr
+2 noncorr
+Correct-Answer 2
+0 corr
+1 corr
+Terminate-answer 0
+
+Question 2
+Multi-choice
+multi 2
+Evaluation
+1 Choose-from-Set Text-Answer
+Possibilities 3
+0 cr
+1 crr
+2 rc
+Correct-Answer 2
+0 cr
+1 crr
+Terminate-answer 0
+
+ENDQUIZ

@@ -1,0 +1,20 @@
+Můj program Parast má za úkol umět vytvářet a testovat kvízy.
+Testovat se mohou jak ty kvízy, které ve svém programu vytvořím, tak ty,
+které importuji.
+
+Při spuštění programu si uživatel bude moci vybrat, jestli chce kvíz vytvářet
+nebo vyplnovat.
+
+
+Při vytváření kvízů bude uživateli k dispozici několik druhů otázek, které 
+budou na základě svého typu ohodnoceny určitým způsobem. Uživatel musí do
+kvízu zadat svou správnou odpověď a v závislosti na typu ohodnocení i odpovědi další.
+Otázky se budou ukládat na stránky, podle kterých se budou při testování 
+i zobrazovat.
+
+Po vytvoření kvízu se nahraje do testovací části programu, která bude na základě
+dat od tvůrce zobrazovat jednotlivé stránky s otázkami. Pokud tak tvůrce určí,
+bude se přeskakovat v kvizu na různé pozice na základě odpovědí. Když testovaný 
+dosáhne na konec, zobrazí se mu jeho hodnocení, které má na základě pokynů
+tvůrce.
+

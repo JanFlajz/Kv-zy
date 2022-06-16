@@ -1,0 +1,114 @@
+QUIZ-WITH-RESULTS
+Num-of-pages 2
+Page 1
+Num-of-questions 5
+Question 1
+Single-choice
+Barva nebe
+Evaluation
+1 Choose-from-Set
+Possibilities 3
+0 modra
+1 cervena
+2 cerna(terminate)
+Correct-Answer 1
+0 modra
+Terminate-answer 1
+2 cerna(terminate)
+Question 2
+Single-choice
+Napiste blb
+Evaluation
+1 Choose-from-Set Text-Answer
+Possibilities 3
+0 blb
+1 mrk
+2 krk(terminate)
+Correct-Answer 1
+0 blb
+Terminate-answer 1
+2 krk(terminate)
+Question 3
+Multi-choice
+Jazyky
+Evaluation
+1 Choose-from-Set
+Possibilities 3
+0 Shell(terminate)
+1 Java
+2 C++
+Correct-Answer 2
+1 Java
+2 C++
+Terminate-answer 1
+0 Shell(terminate)
+Question 4
+Multi-choice
+Napiste cisla mezi 5 a 8
+Evaluation
+1 Choose-from-Set Text-Answer
+Possibilities 4
+0 5term
+1 6
+2 7
+3 8
+Correct-Answer 2
+1 6
+2 7
+Terminate-answer 1
+0 5term
+Question 5
+Text-choice
+Asociace Hudba - exact match
+Evaluation
+2 Written-text
+Correct-Answer 1
+hudba
+Terminate-answer 1
+0 huba
+Page 2
+Num-of-questions 4
+Question 6
+Text-choice
+Regex
+Evaluation
+3 Regex
+Correct-Answer 1
+subject
+Terminate-answer 0
+
+Question 7
+Text-choice
+1+1
+Evaluation
+4 Counted-Value
+Correct-Answer 1
+2
+Number-of-decimals 7
+Terminate-answer INFINUM N
+Terminate-answer SUPREMUM 3
+Question 8
+Yes\No
+yespes
+Evaluation
+1 Choose-from-Set Text-Answer 
+Possibilities 2
+0 Yes
+1 No
+Correct-Answer 1
+0 Yes
+Terminate-answer 0
+
+Question 9
+Yes\No
+noooooooo
+Evaluation
+1 Choose-from-Set Text-Answer 
+Possibilities 2
+0 Yes
+1 No
+Correct-Answer 1
+1 No
+Terminate-answer 0
+
+ENDQUIZ

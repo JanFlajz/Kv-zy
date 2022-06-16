@@ -1,0 +1,38 @@
+QUIZ-WITH-RESULTS
+Num-of-pages 1
+Page 1
+Num-of-questions 2
+Question 1
+Single-choice
+Singlechoice
+Evaluation
+1 Choose-from-Set
+Possibilities 2
+0 answer
+1 newAnswer
+Correct-Answer 1
+0 answer
+Terminate-answer 0
+
+Question 2
+Multi-choice
+multichoice
+Evaluation
+1 Choose-from-Set
+Possibilities 6
+0 answer
+1 ass
+2 assss
+3 asssssssss
+4 dsadas
+5 dadacds
+Correct-Answer 6
+0 answer
+1 ass
+2 assss
+3 asssssssss
+4 dsadas
+5 dadacds
+Terminate-answer 0
+
+ENDQUIZ

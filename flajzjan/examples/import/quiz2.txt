@@ -1,0 +1,16 @@
+QUIZ-WITH-RESULTS
+Num-of-pages 1
+Page 1
+Num-of-questions 1
+Question 1
+Multi-choice
+hello
+Evaluation
+1 Choose-from-Set
+Possibilities 1
+0 reeeeeeeeeee
+Correct-Answer 0
+
+Terminate-answer 1
+0 reeeeeeeeeee
+ENDQUIZ

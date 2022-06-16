@@ -1,0 +1,17 @@
+QUIZ-WITH-RESULTS
+Num-of-pages 1
+Page 1
+Num-of-questions 1
+Question 1
+Single-choice
+Singlechoice1
+Evaluation
+1 Choose-from-Set
+Possibilities 2
+0 answer
+1 Another Answer
+Correct-Answer 1
+0 answer
+Terminate-answer 0
+
+ENDQUIZ
